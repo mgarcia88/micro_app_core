@@ -1,5 +1,5 @@
 abstract class MicroApp{
-  List<String> getRoutes;
+  List<String> get getRoutes;
 
   String appName;
 }
