@@ -74,6 +74,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.3.0"
+  micro_app_auth:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "v1.0.0"
+      resolved-ref: "440f952ed25adc6394bf465dcb1af8cd1d322298"
+      url: "https://github.com/mgarcia88/micro_app_auth.git"
+    source: git
+    version: "0.0.1"
   path:
     dependency: transitive
     description:
