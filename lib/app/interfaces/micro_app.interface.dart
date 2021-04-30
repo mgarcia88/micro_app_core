@@ -1,5 +1,7 @@
+import '../arguements.dart';
+
 abstract class MicroApp{
-  Map<String> get getRoutes;
+  Map<String, WidgetBuilderArgs> get getRoutes;
 
   String appName;
 }
